@@ -17,18 +17,18 @@
 
 * `apt update`
 * `apt install git curl -y`
-* `git clone git://github.com/Varun114-Techno/track-ip.git`
+* `git clone https://github.com/Varun114-Techno/track-ip.git`
 * `cd track-ip`
 
 #### > Run : `bash trackip`
 
 ## Single Command :
 ```
-apt update ; apt install git curl -y ; git clone git://github.com/Varun114-Techno/track-ip.git ; cd track-ip ; bash trackip
+apt update ; apt install git curl -y ; git clone https://github.com/Varun114-Techno/track-ip.git ; cd track-ip ; bash trackip
 ```
 <br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/Varun114-Techno/release-download/master/images/trackip.png"/>
+<img src="https://raw.githubusercontent.com/Varun114-Techno/track-ip/main/Screenshot_20220919-193631.png"/>
 
 ### <<< If you copy , Then Give me The Credits >>>
 
